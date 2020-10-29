@@ -4,9 +4,7 @@ using System.Reflection.Metadata.Ecma335;
 
 namespace Exercices5._1
 {
-
-
-    public enum Genre { Femme, Homme };
+        public enum Genre { Femme, Homme };
 
     public struct Personne
     {
